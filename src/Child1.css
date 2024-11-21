@@ -1,0 +1,32 @@
+.child1 {
+    padding: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .child1 h3 {
+    margin: 10px 0;
+  }
+  
+  .child1 label {
+    margin-right: 10px;
+  }
+  
+  .child1 select {
+    padding: 5px;
+    font-size: 14px;
+  }
+  
+  #chart {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+  }
+  
+  #tooltip {
+    position: absolute;
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 5px;
+    pointer-events: none;
+    opacity: 0;
+  }  
